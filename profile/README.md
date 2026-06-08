@@ -1,7 +1,7 @@
 ![TuGuíaApp](https://img.shields.io/badge/TuGu%C3%ADaApp-_Conectando_Profesionales_y_Clientes-ffd400?style=for-the-badge&labelColor=1a1a1a)
 
 <div align="center">
-  <img src="https://tuguiaapp.com.ar/assets/tuguiaapp-logo.png" alt="TuGuíaApp" width="120" />
+  <img src="https://github.com/user-attachments/assets/a985d84b-c210-4f3e-bf4e-2e92c5523ceb" alt="TuGuíaApp" width="120" />
   <h1 align="center" style="font-size: 2.5rem; margin: 0.5rem 0; color: #ffd400;">TuGuíaApp</h1>
   <p align="center" style="font-size: 1.1rem; color: #666; max-width: 500px;">
     Encontrá profesionales de confianza cerca tuyo. Agendá turnos, leé reseñas y conectá directo por WhatsApp.
@@ -33,8 +33,8 @@
 
 | Repo | Descripción |
 |---|---|
-| [**tuguiaapp-backend**](https://github.com/tuguiaapp/tuguiaapp-backend) | API REST con NestJS. Auth, profesionales, reseñas, turnos, email service. |
-| [**tuguiaapp-frontend**](https://github.com/tuguiaapp/tuguiaapp-frontend) | SPA con React. Búsqueda, perfiles, planes, gestión de turnos. |
+| [**tuguiaapp-backend**](https://github.com/tuguiaapp/backend) | API REST con NestJS. Auth, profesionales, reseñas, turnos, email service. |
+| [**tuguiaapp-frontend**](https://github.com/tuguiaapp/frontend) | SPA con React. Búsqueda, perfiles, planes, gestión de turnos. |
 | [**.github**](https://github.com/tuguiaapp/.github) | Perfil de la organización, templates y guías. |
 
 ---
