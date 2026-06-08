@@ -25,7 +25,7 @@
 |---|---|
 | **Backend** | NestJS 11, TypeORM, MySQL, JWT (Passport), Nodemailer, Argon2 |
 | **Frontend** | React 19, Vite 7, React Router v7, Tailwind CSS 4, ShadCn UI |
-| **Infra** | Aiven (MySQL), Railway (backend), Vercel (frontend) |
+| **Infra** | Aiven (MySQL), Render (backend y frontend) |
 
 ---
 
