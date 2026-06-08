@@ -57,7 +57,7 @@
 
 ## Equipo
 
-| | |
+| Usuario | Nombre |
 |---|---|
 | [@ariasgustavo](https://github.com/ariasgustavo) | Gustavo Arias |
 | [@demateopablo](https://github.com/demateopablo) | Pablo Demateo |
