@@ -1,7 +1,7 @@
 ![TuGuíaApp](https://img.shields.io/badge/TuGu%C3%ADaApp-_Conectando_Profesionales_y_Clientes-ffd400?style=for-the-badge&labelColor=1a1a1a)
 
 >[!important]
->Este es el proyecto final de la carrera Desarrollador Web FullStack dictada por CEPIT Tandil.
+>Este es el proyecto final de la carrera Desarrollador Web FullStack dictada por [CEPIT Tandil](https://www.clustertecnologicotandil.org.ar/).
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a985d84b-c210-4f3e-bf4e-2e92c5523ceb" alt="TuGuíaApp" width="120" />
