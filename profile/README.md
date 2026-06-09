@@ -36,8 +36,8 @@
 
 | Repo | Descripción |
 |---|---|
-| [**tuguiaapp-backend**](https://github.com/tuguiaapp/backend) | API REST con NestJS. Auth, profesionales, reseñas, turnos, email service. |
-| [**tuguiaapp-frontend**](https://github.com/tuguiaapp/frontend) | SPA con React. Búsqueda, perfiles, planes, gestión de turnos. |
+| [**backend**](https://github.com/tuguiaapp/backend) | API REST con NestJS. Auth, profesionales, reseñas, turnos, email service. |
+| [**frontend**](https://github.com/tuguiaapp/frontend) | SPA con React. Búsqueda, perfiles, planes, gestión de turnos. |
 | [**.github**](https://github.com/tuguiaapp/.github) | Perfil de la organización, templates y guías. |
 
 ---
