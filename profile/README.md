@@ -63,6 +63,17 @@
 | [@demateopablo](https://github.com/demateopablo) | Pablo Demateo |
 | [@ignacioflores](https://github.com/ignacioflores) | Ignacio Flores |
 
+
+---
+
+## Contacto
+
+¿Tenés consultas, sugerencias o detectaste algún problema?
+
+📧 contacto.tuguiaapp@gmail.com
+
+También podés comunicarte con el equipo a través de sus perfiles de GitHub para consultas comerciales, soporte o colaboraciones.
+
 ---
 
 <div align="center">
