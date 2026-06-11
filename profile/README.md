@@ -3,7 +3,7 @@
 >[!important]
 >Este es el proyecto final de la carrera Desarrollador Web FullStack dictada por [CEPIT Tandil](https://www.clustertecnologicotandil.org.ar/).
 >
->Anteriormente se estuvo commiteando en otro repositorio, historial de commits [aquí](https://github.com/demateopablo/TuGuiaApp/commits/main/).
+>El desarrollo comenzó originalmente en un repositorio personal. El historial de commits previo puede consultarse [aquí](https://github.com/demateopablo/TuGuiaApp/commits/main/).
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a985d84b-c210-4f3e-bf4e-2e92c5523ceb" alt="TuGuíaApp" width="120" />
@@ -68,11 +68,30 @@
 
 ---
 
-Demo
+## Demo
 
-🌐 Aplicación web: https://frontend-nyqu.onrender.com/
+🌐 **Aplicación web:** https://frontend-nyqu.onrender.com/
 
-Probá la plataforma y encontrá profesionales de confianza, gestioná turnos y contactate directamente por WhatsApp.
+Probá la plataforma para:
+
+- Buscar profesionales por categoría.
+- Reservar turnos online.
+- Leer reseñas verificadas.
+- Contactarte directamente por WhatsApp.
+
+### Acceso de prueba
+
+#### Usuario
+
+Email: flor@test.com
+Password: prueba
+
+#### Profesional
+
+Email: camila102@test.com
+Password: prueba
+
+---
 
 ## Contacto
 
