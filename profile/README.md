@@ -81,15 +81,10 @@ Probá la plataforma para:
 
 ### Acceso de prueba
 
-#### Usuario
-
-Email: flor@test.com
-Password: prueba
-
-#### Profesional
-
-Email: camila102@test.com
-Password: prueba
+Rol | Usuario | Password
+-|-|-
+Usuario | flor@test.com | prueba 
+Profesional | camila102@test.com | prueba
 
 ---
 
