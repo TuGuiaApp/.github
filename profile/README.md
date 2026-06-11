@@ -2,6 +2,7 @@
 
 >[!important]
 >Este es el proyecto final de la carrera Desarrollador Web FullStack dictada por [CEPIT Tandil](https://www.clustertecnologicotandil.org.ar/).
+>Anteriormente se estuvo commiteando en otro repositorio, historial de commits [aquí](https://github.com/demateopablo/TuGuiaApp/commits/main/).
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a985d84b-c210-4f3e-bf4e-2e92c5523ceb" alt="TuGuíaApp" width="120" />
